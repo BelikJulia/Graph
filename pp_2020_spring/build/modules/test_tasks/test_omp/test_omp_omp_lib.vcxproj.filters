@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\pp_2020_spring\modules\test_tasks\test_omp\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\pp_2020_spring\modules\test_tasks\test_omp\ops_omp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\pp_2020_spring\modules\test_tasks\test_omp\ops_omp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\pp_2020_spring\modules\test_tasks\test_omp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29F7A48E-32CA-3697-A6F9-B119590EC7FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{087B9AD0-AAA5-3D36-B267-4CA56045EEFF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
