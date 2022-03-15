@@ -1,0 +1,4 @@
+mkdir build && cd build
+cmake -D USE_OMP=ON ..
+cmake --build . --config RELEASE
+bin\graph_omp.exe
