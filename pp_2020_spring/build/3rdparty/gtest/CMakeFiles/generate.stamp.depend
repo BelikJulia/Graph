@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CMakeDependentOption.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+E:/pp_2020_spring/3rdparty/gtest/CMakeLists.txt

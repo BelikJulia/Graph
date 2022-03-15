@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+E:/pp_2020_spring/3rdparty/gtest/googlemock/CMakeLists.txt
+E:/pp_2020_spring/3rdparty/gtest/googlemock/cmake/gmock.pc.in
+E:/pp_2020_spring/3rdparty/gtest/googlemock/cmake/gmock_main.pc.in

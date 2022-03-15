@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckIncludeFile.c.in
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindPythonInterp.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.20/Modules/WriteBasicConfigVersionFile.cmake
+E:/pp_2020_spring/3rdparty/gtest/googletest/CMakeLists.txt
+E:/pp_2020_spring/3rdparty/gtest/googletest/cmake/Config.cmake.in
+E:/pp_2020_spring/3rdparty/gtest/googletest/cmake/gtest.pc.in
+E:/pp_2020_spring/3rdparty/gtest/googletest/cmake/gtest_main.pc.in
+E:/pp_2020_spring/3rdparty/gtest/googletest/cmake/internal_utils.cmake

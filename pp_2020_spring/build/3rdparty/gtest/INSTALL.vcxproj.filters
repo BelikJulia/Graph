@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\pp_2020_spring\build\CMakeFiles\05952233b0dc817b6cbe3957e565033a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E30B5302-08DF-3395-9F09-24FFE572BCC9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
